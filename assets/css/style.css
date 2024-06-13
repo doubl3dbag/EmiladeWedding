@@ -59,7 +59,7 @@ section {
 } 
 .hero{
         background-image: url("...assets\images\Emilade_Hero.jpg");
-        height: 200px; 
+        height: 800px; 
         background-size: cover;
         background-position: center;
         position: relative;
