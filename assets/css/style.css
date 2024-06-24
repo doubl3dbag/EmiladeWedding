@@ -9,18 +9,18 @@ body {
 }
 header { 
     padding: 20px 35px;
-    background-color: #39a6b2;
+    background-color: #163f34;
 }
 header h1{
     font-weight:bold;
     font-size: 36px;
-    color: #fce138;
+    color: #c66e00;
     margin: 0;
     display: inline;
 }
 header a {
     text-decoration: none;
-    color: #fce138
+    color: #c66e00;
 }
 header nav { 
     float: right;
@@ -71,7 +71,7 @@ section {
 
 .intro p {
     line-height: 1.7;
-    color: #39a6b2;
+    color: #024e76;
     width: 80%;
     font-size: 20px;
     margin: 0 auto;
@@ -115,6 +115,10 @@ section {
 }
 .trainers{
     text-align: center;
+     background: #681a2c;
+}
+.your-trainers{
+    background: #089ae8;
 }
 .trainer {
     justify-content: left;
@@ -123,7 +127,6 @@ section {
     background: #089ae8;
     overflow: auto;
     color: #fce138
-    
 }
 .trainer img{
     width: 35%;
